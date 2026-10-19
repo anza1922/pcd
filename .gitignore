@@ -1,0 +1,11 @@
+# Model besar - download manual
+*.onnx
+*.tflite
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Output besar (opsional - hapus baris ini kalau mau push hasil juga)
+# hasil_bab4/visualisasi/
